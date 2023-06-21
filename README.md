@@ -1,6 +1,9 @@
 # A ThreeJS animated Sphere
 
-> built to learn the basics of ThreeJS and create a simple scene
+### Project Description
+
+> Built to learn the basics of ThreeJS and create a simple scene
+> Sphere rotates and when you click and drag over sphere it changes color and direction.
 
 ## Run using
 
